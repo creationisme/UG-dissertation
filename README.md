@@ -1,4 +1,4 @@
-**Using Non-Parametric Methods to Test for Salary Discrepancies among Genders and Races**
+<h1> Using Non-Parametric Methods to Test for Salary Discrepancies among Genders and Races </h1>
 
 
 

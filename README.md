@@ -1,4 +1,4 @@
-*Using Non-Parametric Methods to Test for Salary Discrepancies among Genders and Races*
+**Using Non-Parametric Methods to Test for Salary Discrepancies among Genders and Races**
 
 One might have come across the terms “Wage Gap”, or, “Pay Disparity”,  etc. This refers to the socio-economic phenomenon where certain groups of people earn considerably lesser than other groups, for reasons seeming to originate from the very difference that divides the groups. It is generally associated with salary disparities between genders or among races. 
 
